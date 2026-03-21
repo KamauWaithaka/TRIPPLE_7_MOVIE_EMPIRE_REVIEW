@@ -17,6 +17,6 @@ Stakeholders - Board of Directors
 ### **2. When is the best time to release a movie for maximum returns?**
 ### **3. Do higher-rated movies generate more revenue?**
 
-## **3.Data Understanding
-This data was sourced  in a github. 
+## **3.Data Understanding**
+This data was sourced  from GitHub. 
 link: https://github.com/learn-co-curriculum/dsc-phase-2-project-v3?tab=readme-ov-file. from zipped data.
