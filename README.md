@@ -2,7 +2,8 @@
 
 # **Table of Content**
 ### **1.Overview**
-### **2.Data Analysis*
+### **2.Data Analysis**
+### **3.Conclusion**
 
 ## 1. **Overview**
 Tripple 7 Movie Empire is a start-up company that wants to compete in the movie industry.  This analysis will help to give a general overview of the industry, to ensure the stakeholders understand how the industry works and what to expect of it, which will be ideal for decison making.
