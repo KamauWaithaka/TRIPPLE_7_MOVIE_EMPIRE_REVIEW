@@ -20,3 +20,7 @@ Stakeholders - Board of Directors
 ## **3.Data Understanding**
 This data was sourced  from GitHub. 
 link: https://github.com/learn-co-curriculum/dsc-phase-2-project-v3?tab=readme-ov-file. from zipped data.
+
+The data contains the following columns:(list the selected columns)
+
+## **3.1 Visualization Metrics**
